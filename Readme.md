@@ -1,4 +1,4 @@
-# Data Poisoning Attack Detection and Purification for Fedrated Skeleton-based Action Recognition
+# Prototype Correlation Fusion-based Attack Detection and Purification for Fedrated Skeleton-based Action Recognition
 
 
 ## Environment
